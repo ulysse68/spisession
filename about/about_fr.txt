@@ -1,0 +1,62 @@
+Logiciel SpiSession 
+
+Ce logiciel est un programme informatique d'administration de cycle de formations ou de sessions dans egroupware : catalogues, sessions, inscriptions et gestion des dates..
+
+Auteur
+Société SPIREA SARL - 16/20 avenue de l'agent Sarre 92700 Colombes - Tél : 0141192772 - Fax : 0147858449 - contact@spirea.fr
+http://www.spirea.fr
+
+Licence : GNU General Public License v.2.0 (GPL2)
+http://opensource.org/licenses/gpl-2.0.php
+cf. http://www.linux-france.org/article/these/gpl.html
+Ce logiciel est fournit gratuitement à la communauté eGroupware.  Le programme ne fait l'objet d'aucune garantie AUCUNE GARANTIE.
+
+Version - Egroupware 1.8
+
+Etapes d'installation
+
+1. Installer le module SpireAPI
+- ajouter les mots clé suivants dans les traductions (pour les langues souhaitées)
+footer_ses
+footer_ses
+footer_ses_address
+footer_ses_address
+
+
+2. Installer le module Spisession
+- copier le répertoire spisession dans la racine Egroupware, au même niveau que les autres modules
+- aller dans le setup egroupware, installer l'application spisession
+- dans egroupware, depuis un compte administrateur : 
+-- Menu Admin/Applications : vérifier que l'application est installée
+-- Menu Admin/Groupes : donner accès à spisession
+
+3. Configuation
+- vérifier et/ou remplir les référentiels
+- vérifier les options disponibles dans la fonction "Général" du sous-menu "Admin"
+- vous pouvez mettre vos footer & headers sur dans spisession\templates\default\pdfimages
+header_en.png		(taille indiquative 164x75 px)
+background_en_png   (taille indiquative 2067x1938 px)
+footer_en.png		(taille indiquative  105x27 px)
+
+Utilisation
+
+1. Voir la documentation en ligne sur www.spirea.fr
+
+2. Résumé
+-- Le catalogue des cours est créé par les gestionnaires ou les administrateurs
+-- Le même cours peut être dispensé plusieurs fois lors de sessions 
+-- Sur chaque session, il y a des inscrits (contacts du carnet d'adresses) qui peuvent avoir des rôles sur la session (participant, instructeur, etc.)
+-- Sur chaque session, il peut y avoir des scéances, appelées "dates"
+- les utilisateurs simples peuvent consulter les informations relatives aux sessions et s'inscrire en ligne
+- les utilisateurs avancés peuvent gérer les inscriptions
+- les statuts des inscriptions sont notifiés par email au participant au responsable de la session...
+
+NB: Seules les personnes faisant partie du groupe "Admins" pourront voir tous les menus
+
+Désinstallation
+
+!!! ATTENTION !!! La désinstallation entraine la suppression des tables et des données de l'application.
+
+1. aller dans le setup egroupware, sélectionner la coche "enlever" pour l'application SpiSession. Cliquez sur "enregistrer"
+
+2. vous pouvez ensuite supprimer le répertoire spisession dans la racine Egroupware

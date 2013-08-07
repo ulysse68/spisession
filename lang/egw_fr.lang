@@ -1,0 +1,334 @@
+access rights	spisession	fr	Droits et ACL
+actions	spisession	fr	Actions
+activity domain	spisession	fr	Domaines activité
+activity field	spisession	fr	Domaine
+activity fields	spisession	fr	Domaines activité
+add a course	spisession	fr	Ajouter un cours
+add a date to this session	spisession	fr	Ajouter une date à cette session
+add a folder	spisession	fr	Ajouter un dossier
+add a session	spisession	fr	Ajouter une session
+add a session date	spisession	fr	Ajouter une date
+add a session to this course	spisession	fr	Ajouter une session à ce cours
+add a subject	spisession	fr	Ajouter un thème
+add component	spisession	fr	Ajouter un composant
+add course	spisession	fr	Ajouter un cours
+add date	spisession	fr	Ajouter une date
+add field	spisession	fr	Ajouter un domaine
+add graduation	spisession	fr	Ajouter un niveau
+add repository	spisession	fr	Ajouter un référentiel
+add role	spisession	fr	Ajouter un rôle
+add session	spisession	fr	Ajouter une session
+add session date	spisession	fr	Ajouter une date de session
+add status	spisession	fr	Ajouter un statut
+add/modify a component	spisession	fr	Ajouter/modifier un composant
+add/modify a field	spisession	fr	Ajouter/modifier un champ
+add/modify a graduation	spisession	fr	Ajouter/modifier un niveau
+add/modify a role	spisession	fr	Ajouter/modifier un rôle
+add/modify a status	spisession	fr	Ajouter/modifier un statut
+address	spisession	fr	Adresse
+advanced	spisession	fr	Niveau Avancé
+advanced search	spisession	fr	Recherche avancée
+all courses	spisession	fr	Tous les cours
+all levels	spisession	fr	Tous niveaux
+all roles	spisession	fr	Tous les rôles
+all sessions	spisession	fr	Toutes les sessions
+all sessions at all times	spisession	fr	Toutes les sessions de tous les temps
+all status	spisession	fr	Tous les statuts
+all subjects	spisession	fr	Tous les thèmes
+all with conditions	spisession	fr	Tous niveaux avec critères
+amount	spisession	fr	Montant
+archive sessions	spisession	fr	Archiver des sessions
+archived	spisession	fr	Archivé
+archived sessions	spisession	fr	Sessions archivées
+archived status	spisession	fr	Statut archivé
+available for direct registration	spisession	fr	Disponible pour l'inscription
+available for waiting list	spisession	fr	Disponible en liste d'attente
+beginner	spisession	fr	Débutant
+break	spisession	fr	Pause
+budget amount	spisession	fr	Montant budgeté
+budget time	spisession	fr	Temps budget
+calendar event	spisession	fr	Elément de calendrier
+cancel sessions	spisession	fr	Annuler des sesssions
+cancelled	spisession	fr	Annulé
+change date	spisession	fr	Date de modification
+changed by	spisession	fr	Modifié par
+check all	spisession	fr	Tout cocher
+clic here	spisession	fr	Cliquer ici
+click here	spisession	fr	Cliquez ici
+client	spisession	fr	Client
+code	spisession	fr	Code
+color	spisession	fr	Couleur
+component	spisession	fr	Composant
+component already existing for this course !	spisession	fr	Ce composant existe déjà pour ce cours !
+component deleted	spisession	fr	Composant supprimé
+components	spisession	fr	Composants
+concerned people	spisession	fr	Personnes concernées
+configuration updated	spisession	fr	Configuration mise à jour
+confirmed	spisession	fr	Confirmé
+confirmed intervention	spisession	fr	Intervention confirmée
+confirmed participants	spisession	fr	participants confirmés
+connect with spiclient	spisession	fr	Connecter à SpiClient
+contact	spisession	fr	Contact
+contact name	spisession	fr	Nom du contact
+convention date	spisession	fr	Date de la convention
+cost	spisession	fr	Coût
+costs	spisession	fr	Coûts
+course	spisession	fr	Cours
+course archived status	spisession	fr	Statut archivé pour les cours
+course catalog	spisession	fr	Catalogue des cours
+course components	spisession	fr	Composants
+course created	spisession	fr	Cours ajouté
+course graduation	spisession	fr	Niveaux des cours
+course management	spisession	fr	Gestion des cours
+course pending status	spisession	fr	Statut des cours par défaut
+course per field	spisession	fr	Cours par domaine
+course presentation	spisession	fr	Présentation du cours
+course status	spisession	fr	Statuts des cours
+course updated	spisession	fr	Cours mis à jour
+course validated status	spisession	fr	Statut des cours validés
+course will be readonly	spisession	fr	Le cours sera en lecture seule
+course will be readonly with possibility to add sessions	spisession	fr	Le cours sera en lecture seule avec la possibilité d'ajouter des sessions
+courses	spisession	fr	Cours
+courses management	spisession	fr	Gestion du catalogue des cours
+courses status management	spisession	fr	Gestion des statuts des cours
+create new links	spisession	fr	Créer de nouveaux liens
+creation date	spisession	fr	Date de création
+date canceled status	spisession	fr	Statut des dates annulées
+date modified	spisession	fr	Date de modification
+date must be beetween session start (%1) and end (%2) date	spisession	fr	La date doit être entre la date de début  (%1) et la date de fin (%2)
+date validated status	spisession	fr	Statut des dates validées
+dates	spisession	fr	Dates
+deactivate email notification to participants	spisession	fr	Désactiver les notifcations par email aux participants
+deactivate email notification to the responsible	spisession	fr	Désactiver les notifcations par email aux responsables
+default course status	spisession	fr	Statut des cours par défaut
+default date status	spisession	fr	Statut des dates par défaut
+default file's status	spisession	fr	Statut des fichiers par défaut
+default nb of dates	spisession	fr	Nombre de scéances par défaut
+default registration status	spisession	fr	Statut de l'inscription par défaut
+default session status	spisession	fr	Statut des session par défaut
+default status	spisession	fr	Statut par défaut
+default status value for new courses	spisession	fr	Statut par défaut pour les nouveaux cours
+default status value for new registrations	spisession	fr	Statut par défaut pour les nouvelles inscriptions
+default status value for new sessions	spisession	fr	Statut par défaut pour les nouvelles sessions
+default status value for new sessions dates	spisession	fr	Statut par défaut pour les nouvelles dates
+default value	spisession	fr	Valeur par défaut
+delivery address	spisession	fr	Adresse de livraison
+deregister	spisession	fr	Désinscrire
+deregistration successfull	spisession	fr	Désinscription enregistrée
+desistement	spisession	fr	Désistement
+desistement registration status	spisession	fr	Statut des inscriptions en désistement
+difference amount	spisession	fr	Montant différent
+difference time	spisession	fr	Différence de temps
+download mail	spisession	fr	Email
+edit component	spisession	fr	Modifier un composant
+edit course	spisession	fr	Modifier un cours
+edit date	spisession	fr	Modifier une date
+edit field	spisession	fr	Modifier un domaine
+edit graduation	spisession	fr	Modifier un niveau
+edit repository	spisession	fr	Modifier le référentiel
+edit role	spisession	fr	Modifier un rôle
+edit session	spisession	fr	Modifier une session
+edit status	spisession	fr	Modifier un statut
+edit subject	spisession	fr	Modifier un thème
+end	spisession	fr	Fin
+end date	spisession	fr	Date de fin
+end date must be after the start date	spisession	fr	La date de fin doit être après la date de début...
+end registration	spisession	fr	Fin des inscriptions
+end registration date must be after the start registration date	spisession	fr	La fin des inscriptions doit être postérieure au début..
+end time must be after the start time	spisession	fr	La date de fin doit être après la date de début
+error while saving	spisession	fr	Erreur sur la sauvegarde...
+exam	spisession	fr	Examen
+existing links	spisession	fr	Liens existants
+field	spisession	fr	domaine
+field deleted	spisession	fr	domaine supprimé
+file status	spisession	fr	Statut de fichier
+from	spisession	fr	De
+general	spisession	fr	Général
+general informations	spisession	fr	Informations générales
+graduation	spisession	fr	Niveau
+graduation deleted	spisession	fr	Niveau supprimé
+group allowed to view and modify anything (in addition to egroupware's admins)	spisession	fr	Groupe autorisé à tout voir et modifier (en plus
+group brainstorming	spisession	fr	Brainstorming de groupe
+group by	spisession	fr	Grouper par
+hello	spisession	fr	Bonjour
+help_crs	spisession	fr	Le cours va apparaître dans le catalogue. Un cours archivé sera en lecture-seule et masqué pour les étudiants.
+help_crs_comp	spisession	fr	Ceci correspond aux composants
+help_crs_ses	spisession	fr	Voici les sessions associées au cours
+help_date	spisession	fr	Veuillez tout remplir...
+help_ses	spisession	fr	Vous pouvez ajouter une session à un cours valide.
+help_ses_contact	spisession	fr	Les contacts sont inscrits avec un rôle et un statut.
+help_ses_date	spisession	fr	Vous pouvez ajouter une date à cette session ou modifier une date avec les boutons
+help_ses_link	spisession	fr	Cet onglet permet de lier votre session à une autre session ou à un module eGroupware.
+help_tabs	spisession	fr	Des onglets apparaîtront après avoir cliquer sur "Appliquer"
+history	spisession	fr	Historique
+icon	spisession	fr	Icône
+id	spisession	fr	ID
+if this option is activated, the relation with spiclient will be used by adding some new fields for the courses and sessions	spisession	fr	Si cette option est activée, la relation avec SpiClient sera utilisée avec des nouveaux champs sur les cours et sessions
+inactive	spisession	fr	Inactif
+independent study	spisession	fr	Travail en autonomie
+inscription date	spisession	fr	Date d'inscription
+instructor	spisession	fr	Formateur
+intermediate	spisession	fr	Niveau intermédiaire
+internship	spisession	fr	Stage
+laboratory	spisession	fr	Laboratoire
+language of the session	spisession	fr	Langue de la session
+lecture	spisession	fr	Cours magistral
+level	spisession	fr	Niveau
+link to the session	spisession	fr	Lien vers la session
+links	spisession	fr	Liens
+location	spisession	fr	Emplacement
+mail	spisession	fr	Email
+management group	spisession	fr	Groupe de gestion
+management of the dates' status	spisession	fr	Gestion des statuts des dates
+management of the registrations' status	spisession	fr	Gestion des statuts inscriptions
+max participant must be superior to min participant	spisession	fr	Le nombre maximum de participant doit être supérieur au minimum
+max participants	spisession	fr	Max participants
+message sent from spisession, copied to the responsible person for this session	spisession	fr	Message envoyé depuis SpiSession, copié au responsable de la session
+min and max participants must be superior or equal to 0	spisession	fr	Le nombre de participants doit être égal ou supérieur à 0
+min. participants	spisession	fr	Min. participants
+modification date	spisession	fr	Date de modification
+modified by	spisession	fr	Modifié par
+my actions	spisession	fr	Mes actions
+my sessions	spisession	fr	Mes sessions
+nb dates	spisession	fr	Nb dates
+nb hours	spisession	fr	Nb heures
+nb registrations	spisession	fr	Nb inscriptions
+nb sessions	spisession	fr	Nb sessions
+nb students	spisession	fr	Nb participants
+new	spisession	fr	Nouveau
+new course	spisession	fr	Nouveau cours
+new session	spisession	fr	Nouvelle session
+new session date	spisession	fr	Nouvelle date
+no component selected for this course	spisession	fr	Aucun composant sélectionné sur ce cours
+no one is registered for this session	spisession	fr	Aucun inscrit pour cette session
+no session date	spisession	fr	Aucune date de sesion
+notification failed	spisession	fr	Notification échouée
+notification sent successfull	spisession	fr	Notification envoyée avec succès
+notification sent to	spisession	fr	Notification envoyée à
+optional	spisession	fr	Optionnel
+optional intervention	spisession	fr	Intervention en option
+order	spisession	fr	Ordre
+participant	spisession	fr	Participant
+participants at max	spisession	fr	participants au max
+pdf	spisession	fr	PDF
+pending inscriptions	spisession	fr	inscriptions en instance
+pending registration	spisession	fr	inscription en attente
+pending registration status	spisession	fr	Status des Inscriptions en liste d'attente
+pending sessions	spisession	fr	Sessions en cours
+pending status	spisession	fr	Statuts en cours
+permission denied, please contact your administrator!!!	spisession	fr	Permission refusée, veuillez contacter votre administrateur !!!
+please select an account or a contact but not both at the same time	spisession	fr	Veuillez sélectionner un compte ou un contact mais pas les deux en même temps
+possible following status	spisession	fr	Statuts suivants possibles
+presence confirmed	spisession	fr	Présence confirmée
+print course with its long description	spisession	fr	Imprimer le cours avec sa description longue
+print pdf	spisession	fr	Imprimer en pdf
+print pdf list	spisession	fr	Imprimer la liste en pdf
+provider	spisession	fr	Prestataire
+recitation	spisession	fr	Soutenance
+refuse	spisession	fr	Refuser
+refused	spisession	fr	Refusée
+regards	spisession	fr	Cordialement
+registered	spisession	fr	Inscrit
+registered on the waiting list	spisession	fr	Inscrit en liste d'attente
+registration	spisession	fr	Inscription
+registration asked	spisession	fr	Inscription à valider
+registration confirmed	spisession	fr	Inscription confirmée
+registration end date	spisession	fr	Date de fin des inscriptions
+registration start date	spisession	fr	Date de début des inscriptions
+registration status	spisession	fr	Statuts des inscriptions
+registration successfull	spisession	fr	Inscription confirmée
+registrations	spisession	fr	Inscriptions
+rejected registration status	spisession	fr	Statut des inscriptions rejetées
+repository	spisession	fr	Référentiel
+repository deleted	spisession	fr	Référentiel supprimé
+required	spisession	fr	Requis ?
+required ?	spisession	fr	Requis ?
+responsable	spisession	fr	Responsable
+responsible	spisession	fr	Responsable
+role	spisession	fr	Rôles
+role for students (counted as participant)	spisession	fr	Rôle élèves (comptés en participants)
+role management	spisession	fr	Gestion des rôles
+search course '%1'	spisession	fr	Rechercher un cours '%1'
+search for '%1'	spisession	fr	Recherche de  '%1'
+search role '%1'	spisession	fr	Rechercher un rôle  '%1'
+search status '%1'	spisession	fr	Rechercher un statut  '%1'
+see course	spisession	fr	Voir le cours
+select an account	spisession	fr	Sélectionner un compte
+select an acction...	spisession	fr	Choisir une action..
+select an action...	spisession	fr	Sélectionner une action...
+send by mail	spisession	fr	Envoyer par email
+session	spisession	fr	Session
+session :	spisession	fr	Session :
+session archived status	spisession	fr	Statut des sessions archivées
+session component management	spisession	fr	Gestion des sessions par composant
+session created	spisession	fr	Session ajoutée
+session date	spisession	fr	Date de session
+session date canceled (notification will be sent to notify participants)	spisession	fr	Date de session annulée (la notification sera envoyée aux utilisateurs/participants)
+session date status	spisession	fr	Statuts des dates
+session date validated (notification will be sent to notify participants)	spisession	fr	Date de session validée (la notification sera envoyée aux utilisateurs/participants)
+session dates	spisession	fr	Dates de sessions
+session dates management	spisession	fr	Gestion des dates de session
+session default language	spisession	fr	Langue par défaut pour les sessions
+session field management	spisession	fr	Getion des domaines de sessions
+session graduation management	spisession	fr	Gestion des niveaux
+session notification	spisession	fr	Notification de session
+session pending status	spisession	fr	Statut de session en cours
+session per course	spisession	fr	Sessions par domaine
+session repository management	spisession	fr	Gestion du référentiel
+session status	spisession	fr	Statuts des sessions
+session status management	spisession	fr	Gestion des statuts
+session updated	spisession	fr	Session mise à jour
+session will be readonly	spisession	fr	La session sera en lecture seule
+session will be readonly with possibility to add dates and participants	spisession	fr	La session sera en lecture seule avec la possibilité de créer des dates et participants...
+session's list	spisession	fr	Liste des sessions
+sessions	spisession	fr	Sessions
+sessions management	spisession	fr	Gestion des sessions
+short description	spisession	fr	Description courte
+site	spisession	fr	Site
+spisession	common	fr	SpiSession
+start	spisession	fr	Début
+start date	spisession	fr	Date de début
+start registration	spisession	fr	Début des inscriptions
+statistics	spisession	fr	Statistiques
+status deleted	spisession	fr	Statut supprimé
+status for desistement	spisession	fr	Statut du désistement
+status for pending registration (waiting list)	spisession	fr	Statut des inscriptions en liste d'attente
+status for rejected registration	spisession	fr	Statut des inscriptions rejetées
+status for unvalidated registration	spisession	fr	Statut des inscriptions non validées
+status for validated registration	spisession	fr	Statut des inscriptions validées
+status management	spisession	fr	Gestion des statuts
+student's role	spisession	fr	Rôle participant/élève
+subjects	spisession	fr	Thèmes
+teacher	spisession	fr	Enseignant
+tel	spisession	fr	Tél
+terminated status	spisession	fr	Statuts terminés
+the contact must have one role and one status to be registered	spisession	fr	Le contact doit avoir un rôle et un statut pour être inscrit
+this is an automatic email to inform you	spisession	fr	Ceci est un message automatique pour vous informer
+to consult dates and further information, please connect to	spisession	fr	Pour consulter les dates et avoir plus d'information, connectez vous à
+translated title	spisession	fr	Titre traduit
+unable to send notification (no mail for this account)	spisession	fr	Impossible d'envoyer une notification (aucun mail pour ce compte)
+unable to send notification (no mail for this contact)	spisession	fr	Impossible d'envoyer une notification (aucun mail pour ce contact)
+unconfirmed participants	spisession	fr	Participants non confirmés
+units	spisession	fr	UV
+unvalidated registration status	spisession	fr	Statut des inscriptions invalidées
+upload image	spisession	fr	Uploader l'image
+user already linked to this session	spisession	fr	Cet utilisateur est déjà ajouté à cette session
+user already registered for this session	spisession	fr	Cet utilisateur est déjà inscrit à cette session
+user manual	spisession	fr	Manuel utilisateur
+valid	spisession	fr	Validé
+validated	spisession	fr	Validé
+validated registration status	spisession	fr	Statut des inscriptions validées
+vat	spisession	fr	TVA
+view dates	spisession	fr	Voir les dates
+view session	spisession	fr	Voir la session
+wait list	spisession	fr	Liste d'attente
+whole query	spisession	fr	Requête entière
+with at least one future date	spisession	fr	Avec au moins une date dans le futur
+with past dates only	spisession	fr	Avec des dates passées uniquement
+without any dates	spisession	fr	Sans aucune date
+you need to select some courses first	spisession	fr	Vous devez sélectionner un cours...
+you need to select some sessions first	spisession	fr	Vous devez sélectionner une session...
+your inscription is canceled/refused	spisession	fr	Votre inscription est rejetée/annulée
+your inscription is confirmed	spisession	fr	Votre inscription est confirmée
+your inscription is pending	spisession	fr	Votre inscription est en attente
+your registration status	spisession	fr	Votre statut d'inscription

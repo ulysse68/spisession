@@ -1,0 +1,335 @@
+access rights	spisession	en	Access rights
+actions	spisession	en	Actions
+activity domain	spisession	en	Activity domain
+activity field	spisession	en	Activity field
+activity fields	spisession	en	Activity fields
+add a course	spisession	en	Add a course
+add a date to this session	spisession	en	Add a date to this session
+add a folder	spisession	en	Add a folder
+add a session	spisession	en	Add a session
+add a session date	spisession	en	Add a session date
+add a session to this course	spisession	en	Add a session to this course
+add a subject	spisession	en	Add a subject
+add component	spisession	en	Add component
+add course	spisession	en	Add Course
+add date	spisession	en	Add date
+add field	spisession	en	Add field
+add graduation	spisession	en	Add graduation
+add repository	spisession	en	Add repository
+add role	spisession	en	Add role
+add session	spisession	en	Add session
+add session date	spisession	en	Add session date
+add status	spisession	en	Add status
+add/modify a component	spisession	en	Add/modify a component
+add/modify a field	spisession	en	Add/modify a field
+add/modify a graduation	spisession	en	Add/modify a graduation
+add/modify a role	spisession	en	Add/modify a role
+add/modify a status	spisession	en	Add/modify a status
+address	spisession	en	Address
+advanced	spisession	en	Advanced
+advanced search	spisession	en	Advanced search
+all courses	spisession	en	All courses
+all levels	spisession	en	All levels
+all roles	spisession	en	All roles
+all sessions	spisession	en	All sessions
+all sessions at all times	spisession	en	All sessions at all times
+all status	spisession	en	All status
+all subjects	spisession	en	All subjects
+all with conditions	spisession	en	All with conditions
+amount	spisession	en	Amount
+archive sessions	spisession	en	Archive sessions
+archived	spisession	en	Archived
+archived sessions	spisession	en	Archived sessions
+archived status	spisession	en	Archived status
+available for direct registration	spisession	en	Available for direct registration
+available for waiting list	spisession	en	Available for waiting list
+beginner	spisession	en	Beginner
+break	spisession	en	Break
+budget amount	spisession	en	Budget amount
+budget time	spisession	en	Budget time
+calendar event	spisession	en	Calendar event
+cancel sessions	spisession	en	Cancel sessions
+cancelled	spisession	en	Cancelled
+change date	spisession	en	Change date
+changed by	spisession	en	Changed by
+check all	spisession	en	Check all
+clic here	spisession	en	Click here
+click here	spisession	en	Click here
+client	spisession	en	Client
+code	spisession	en	Code
+color	spisession	en	Color
+component	spisession	en	Component
+component already existing for this course !	spisession	en	Component already existing for this course !
+component deleted	spisession	en	component deleted
+components	spisession	en	Components
+concerned people	spisession	en	Concerned people
+configuration updated	spisession	en	Configuration updated
+confirmed	spisession	en	Confirmed
+confirmed intervention	spisession	en	Confirmed intervention
+confirmed participants	spisession	en	confirmed participants
+connect with spiclient	spisession	en	Connect with spiclient
+contact	spisession	en	Contact
+contact name	spisession	en	Contact name
+convention date	spisession	en	Convention date
+cost	spisession	en	Cost
+costs	spisession	en	Costs
+course	spisession	en	Course
+course archived status	spisession	en	Course archived status
+course catalog	spisession	en	Course Catalog
+course components	spisession	en	Course components
+course created	spisession	en	Course created
+course graduation	spisession	en	Course graduation
+course management	spisession	en	Course Management
+course pending status	spisession	en	Course pending status
+course per field	spisession	en	Course per field
+course presentation	spisession	en	Course presentation
+course status	spisession	en	Course status
+course updated	spisession	en	Course updated
+course validated status	spisession	en	Course validated status
+course will be readonly	spisession	en	Course will be readonly
+course will be readonly with possibility to add sessions	spisession	en	Course will be readonly with possibility to add sessions
+courses	spisession	en	Courses
+courses management	spisession	en	Courses management
+courses status management	spisession	en	Courses Status management
+create new links	spisession	en	Create new links
+creation date	spisession	en	Creation Date
+date canceled status	spisession	en	Date canceled status
+date modified	spisession	en	Date modified
+date must be beetween session start (%1) and end (%2) date	spisession	en	Date must be beetween session start (%1) and end (%2) date
+date validated status	spisession	en	Date validated status
+dates	spisession	en	Dates
+deactivate email notification to participants	spisession	en	Deactivate email notification to participants
+deactivate email notification to the responsible	spisession	en	Deactivate email notification to the responsible
+default course status	spisession	en	Default course status
+default date status	spisession	en	Default date status
+default file's status	spisession	en	Default file's status
+default nb of dates	spisession	en	Default nb of dates
+default registration status	spisession	en	Default registration status
+default session status	spisession	en	Default session status
+default status	spisession	en	Default status
+default status value for new courses	spisession	en	Default status value for new courses
+default status value for new registrations	spisession	en	Default status value for new registrations
+default status value for new sessions	spisession	en	Default status value for new sessions
+default status value for new sessions dates	spisession	en	Default status value for new sessions dates
+default value	spisession	en	Default Value
+delivery address	spisession	en	Delivery address
+deregister	spisession	en	Deregister
+deregistration successfull	spisession	en	Deregistration successfull
+desistement	spisession	en	Desistement
+desistement registration status	spisession	en	Desistement registration status
+difference amount	spisession	en	Difference amount
+difference time	spisession	en	Difference time
+download mail	spisession	en	Download mail
+edit component	spisession	en	Edit component
+edit course	spisession	en	Edit Course
+edit date	spisession	en	Edit date
+edit field	spisession	en	Edit field
+edit graduation	spisession	en	Edit graduation
+edit repository	spisession	en	Edit repository
+edit role	spisession	en	Edit role
+edit session	spisession	en	Edit session
+edit status	spisession	en	Edit status
+edit subject	spisession	en	Edit subject
+end	spisession	en	End
+end date	spisession	en	End date
+end date must be after the start date	spisession	en	End date must be after the start date
+end registration	spisession	en	End registration
+end registration date must be after the start registration date	spisession	en	End registration date must be after the start registration date
+end time must be after the start time	spisession	en	End time must be after the start time
+error while saving	spisession	en	Error while saving
+exam	spisession	en	Exam
+existing links	spisession	en	Existing links
+field	spisession	en	field
+field deleted	spisession	en	field deleted
+file status	spisession	en	File status
+folder download notification	spisession	en	Folder download notification
+from	spisession	en	From
+general	spisession	en	General
+general informations	spisession	en	General informations
+graduation	spisession	en	graduation
+graduation deleted	spisession	en	graduation deleted
+group allowed to view and modify anything (in addition to egroupware's admins)	spisession	en	Group allowed to view and modify anything (in addition to egroupware's admins)
+group brainstorming	spisession	en	Group brainstorming
+group by	spisession	en	Group by
+hello	spisession	en	Hello
+help_crs	spisession	en	The course will appear in your catalogue. Archived courses will become readonly and hidden to students.
+help_crs_comp	spisession	en	help_crs_comp
+help_crs_ses	spisession	en	help_crs_ses
+help_date	spisession	en	Please fill up all fields. Breaks will appear minimized in the pdf.
+help_ses	spisession	en	You may add a session to a valid course.
+help_ses_contact	spisession	en	Contacts are registered here with a role and a status.
+help_ses_date	spisession	en	You can add a date to this session or modify the dates using the action buttons.
+help_ses_link	spisession	en	This tab allows you to link your session to other sessions or to other modules.
+help_tabs	spisession	en	Extra tabs will appear after clicking "apply".
+history	spisession	en	History
+icon	spisession	en	Icon
+id	spisession	en	ID
+if this option is activated, the relation with spiclient will be used by adding some new fields for the courses and sessions	spisession	en	If this option is activated, the relation with spiclient will be used by adding some new fields for the courses and sessions
+inactive	spisession	en	Inactive
+independent study	spisession	en	Independent Study
+inscription date	spisession	en	Inscription date
+instructor	spisession	en	Instructor
+intermediate	spisession	en	Intermediate
+internship	spisession	en	Internship
+laboratory	spisession	en	Laboratory
+language of the session	spisession	en	Language of the session
+lecture	spisession	en	Lecture
+level	spisession	en	Level
+link to the session	spisession	en	Link to the session
+links	spisession	en	Links
+location	spisession	en	Location
+mail	spisession	en	Mail
+management group	spisession	en	Management group
+management of the dates' status	spisession	en	Management of the dates' status
+management of the registrations' status	spisession	en	Management of the registrations' status
+max participant must be superior to min participant	spisession	en	Max participant must be superior to min participant
+max participants	spisession	en	Max participants
+message sent from spisession, copied to the responsible person for this session	spisession	en	Message sent from SpiSession, copied to the responsible person for this session
+min and max participants must be superior or equal to 0	spisession	en	Min and max participants must be superior or equal to 0
+min. participants	spisession	en	Min. participants
+modification date	spisession	en	Modification date
+modified by	spisession	en	Modified by
+my actions	spisession	en	My actions
+my sessions	spisession	en	My sessions
+nb dates	spisession	en	Nb dates
+nb hours	spisession	en	Nb hours
+nb registrations	spisession	en	Nb registrations
+nb sessions	spisession	en	Nb sessions
+nb students	spisession	en	Nb students
+new	spisession	en	New
+new course	spisession	en	New course
+new session	spisession	en	New session
+new session date	spisession	en	New session date
+no component selected for this course	spisession	en	No component selected for this course
+no one is registered for this session	spisession	en	No one is registered for this session
+no session date	spisession	en	No session date
+notification failed	spisession	en	Notification failed
+notification sent successfull	spisession	en	Notification sent successfull
+notification sent to	spisession	en	Notification sent to
+optional	spisession	en	Optional
+optional intervention	spisession	en	Optional intervention
+order	spisession	en	Order
+participant	spisession	en	Participant
+participants at max	spisession	en	participants at max
+pdf	spisession	en	PDF
+pending inscriptions	spisession	en	pending inscriptions
+pending registration	spisession	en	Pending registration
+pending registration status	spisession	en	Pending registration status
+pending sessions	spisession	en	Pending sessions
+pending status	spisession	en	Pending status
+permission denied, please contact your administrator!!!	spisession	en	Permission denied, please contact your administrator!!!
+please select an account or a contact but not both at the same time	spisession	en	Please select an account or a contact but not both at the same time
+possible following status	spisession	en	Possible following status
+presence confirmed	spisession	en	Presence confirmed
+print course with its long description	spisession	en	Print course with its long description
+print pdf	spisession	en	Print PDF
+print pdf list	spisession	en	Print PDF list
+provider	spisession	en	Provider
+recitation	spisession	en	Recitation
+refuse	spisession	en	Refuse
+refused	spisession	en	Refused
+regards	spisession	en	Regards
+registered	spisession	en	Registered
+registered on the waiting list	spisession	en	Registered on the waiting list
+registration	spisession	en	Registration
+registration asked	spisession	en	Registration asked
+registration confirmed	spisession	en	Registration confirmed
+registration end date	spisession	en	Registration end date
+registration start date	spisession	en	Registration start date
+registration status	spisession	en	Registration status
+registration successfull	spisession	en	Registration successfull
+registrations	spisession	en	Registrations
+rejected registration status	spisession	en	Rejected registration status
+repository	spisession	en	Repository
+repository deleted	spisession	en	repository deleted
+required	spisession	en	Required
+required ?	spisession	en	Required ?
+responsable	spisession	en	Responsable
+responsible	spisession	en	Responsible
+role	spisession	en	Roles
+role for students (counted as participant)	spisession	en	Role for students (counted as participant)
+role management	spisession	en	Role Management
+search course '%1'	spisession	en	Search course '%1'
+search for '%1'	spisession	en	Search for '%1'
+search role '%1'	spisession	en	Search role '%1'
+search status '%1'	spisession	en	Search status '%1'
+see course	spisession	en	See course
+select an account	spisession	en	Select an account
+select an acction...	spisession	en	Select an acction...
+select an action...	spisession	en	Select an action...
+send by mail	spisession	en	Send by email
+session	spisession	en	Session
+session :	spisession	en	Session :
+session archived status	spisession	en	Session archived status
+session component management	spisession	en	Session component management
+session created	spisession	en	Session created
+session date	spisession	en	Session date
+session date canceled (notification will be sent to notify participants)	spisession	en	Session date canceled (Notification will be sent to notify participants)
+session date status	spisession	en	Session date status
+session date validated (notification will be sent to notify participants)	spisession	en	Session date validated (Notification will be sent to notify participants)
+session dates	spisession	en	Session dates
+session dates management	spisession	en	Session dates management
+session default language	spisession	en	Session default language
+session field management	spisession	en	Session field management
+session graduation management	spisession	en	Session graduation management
+session notification	spisession	en	Session notification
+session pending status	spisession	en	Session pending status
+session per course	spisession	en	Session per course
+session repository management	spisession	en	Session repository management
+session status	spisession	en	Session status
+session status management	spisession	en	Session status management
+session updated	spisession	en	Session updated
+session will be readonly	spisession	en	Session will be readonly
+session will be readonly with possibility to add dates and participants	spisession	en	Session will be readonly with possibility to add dates and participants
+session's list	spisession	en	Session's list
+sessions	spisession	en	Sessions
+sessions management	spisession	en	Sessions management
+short description	spisession	en	Short description
+site	spisession	en	Site
+spisession	common	en	SpiSession
+start	spisession	en	Start
+start date	spisession	en	Start date
+start registration	spisession	en	Start registration
+statistics	spisession	en	Statistics
+status deleted	spisession	en	Status deleted
+status for desistement	spisession	en	Status for desistement
+status for pending registration (waiting list)	spisession	en	Status for pending registration (Waiting list)
+status for rejected registration	spisession	en	Status for rejected registration
+status for unvalidated registration	spisession	en	Status for unvalidated registration
+status for validated registration	spisession	en	Status for validated registration
+status management	spisession	en	Status Management
+student's role	spisession	en	Student's role
+subjects	spisession	en	Subjects
+teacher	spisession	en	Teacher
+tel	spisession	en	Tel
+terminated status	spisession	en	Terminated status
+the contact must have one role and one status to be registered	spisession	en	The contact must have one role and one status to be registered
+this is an automatic email to inform you	spisession	en	This is an automatic email to inform you
+to consult dates and further information, please connect to	spisession	en	To consult dates and further information, please connect to
+translated title	spisession	en	Translated title
+unable to send notification (no mail for this account)	spisession	en	Unable to send notification (no mail for this account)
+unable to send notification (no mail for this contact)	spisession	en	Unable to send notification (no mail for this contact)
+unconfirmed participants	spisession	en	unconfirmed participants
+units	spisession	en	Units
+unvalidated registration status	spisession	en	Unvalidated registration status
+upload image	spisession	en	Upload Image
+user already linked to this session	spisession	en	User already linked to this session
+user already registered for this session	spisession	en	User already registered for this session
+user manual	spisession	en	User Manual
+valid	spisession	en	Valid
+validated	spisession	en	Validated
+validated registration status	spisession	en	Validated registration status
+vat	spisession	en	VAT
+view dates	spisession	en	View dates
+view session	spisession	en	View session
+wait list	spisession	en	Wait list
+whole query	spisession	en	whole query
+with at least one future date	spisession	en	With at least one future date
+with past dates only	spisession	en	With past dates only
+without any dates	spisession	en	Without any dates
+you need to select some courses first	spisession	en	You need to select some courses first
+you need to select some sessions first	spisession	en	You need to select some sessions first
+your inscription is canceled/refused	spisession	en	Your inscription is canceled/refused
+your inscription is confirmed	spisession	en	Your inscription is confirmed
+your inscription is pending	spisession	en	Your inscription is pending
+your registration status	spisession	en	Your registration status

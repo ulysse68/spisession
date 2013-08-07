@@ -1,0 +1,25 @@
+.total{font-weight:bold;background-color: lightblue;}
+.match{font-weight:bold;background-color:green;}
+.nomatch{font-weight:bold;background-color:red;}
+.bold{font-weight:bold;}
+.italic{font-weight:italic;}
+.longueur { width: 80px;}
+.group_select select { width: 230px; }
+.cat_select select  { width: 100%; }
+.tabs_select { width: 155%; }
+.bold2{font-weight:bold;}
+.popupManual{visibility:hidden;}
+.bgreen{background-color:green;}
+.bblue{background-color:blue;}
+.byellow{background-color: GoldenRod;}
+.bwhite{background-color: white;}
+.green{color:green;}
+.grayItalic{color:gray;font-style:italic;}
+.redItalic{color:red;font-style:italic;}
+.blue{color:blue;}
+.yellow{color: GoldenRod;}
+.brown{color: brown;}
+.total{font-weight:bold;background-color: lightblue;}
+.on{}
+.off{background-color:#f1f1f1;}
+.border_cal{border:1px solid black; width: 100%;}

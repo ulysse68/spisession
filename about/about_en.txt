@@ -1,0 +1,62 @@
+Module Spisession
+
+This is computer program for egroupware to manage (training) cycles inside egroupware : course catalog, sessions, registrations and dates...
+
+
+Author
+SPIREA SARL - 16/20 avenue de l'agent Sarre 92700 Colombes - Tél : +33141192772 - Fax : +33147858449 - contact@spirea.fr
+http://www.spirea.fr
+
+License : GNU General Public License v.2.0 (GPL2)
+http://opensource.org/licenses/gpl-2.0.php
+This is free software, and as such comes with NO WARRANTY.
+
+
+Version - Egroupware 1.8
+
+1. Install the application SpireAPI
+- then add the following keys in the translation (needed for pdf footers & headers) in the needed languages
+footer_ses
+footer_ses
+footer_ses_address
+footer_ses_address
+
+
+2. Install the application SpiSession
+- copy the folder spisesssion to your eGroupware's root, at the same level as other modules
+- go in egroupware's setup, install the module spisession
+- from eGroupware, as administrator : 
+-- Menu Admin/Applications : check the module is installed and enabled
+-- Menu Admin/Groups : add spisession to your users (first to your groups...)
+
+3. Configuation
+- check and fill up the referential
+- check available options in the "general"  function under the submenu "admin"
+- you can place your own footer & headers in spisession\templates\default\pdfimages
+header_en.png		(size 164x75 px)
+background_en_png   (size 2067x1938 px)
+footer_en.png		(size 105x27 px)
+
+
+Use
+
+1. See online documentation online on www.spirea.fr
+
+2. Summary
+-- Course catalog is created by managers and administrators
+-- The same courses may be hold several times in differnt languages
+-- On each session, contacts are registered with a status and a role (teacher, instructor, student, participant...)
+-- On each session, there might be one or several "dates"
+- simple users can consult sessions and register/apply to participate online
+- advances users can manage the registration (accept/refuse/waitlist)
+- changes in the status are notified by email to the participant and to the responsible of the session
+
+NB: Only users who can access the admin module may see all menus, so there are super users automatically...
+
+Uninstall
+
+!!! WARNING !!! Uninstall the application will empty the database and delete all datas link to the application
+
+1. Go in egroupware's setup, select "remove" for the SpiSession application; Click "save".
+
+2. You can then remove the spisession folder in the eGroupware's tree
